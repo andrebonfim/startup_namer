@@ -59,9 +59,3 @@ class _RandomWordsState extends State<RandomWords> {
     // return Text(wordPair.asPascalCase);
   }
 }
-
-// Continuar amanhã em: https://docs.flutter.dev/development/ui/layout
-
-// 4. Adicione o widget de layout à página...
-
-// Lembrar de criar um app novo para seguir os passos da doc acima.
